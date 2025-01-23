@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Godwin, an engineer @Confluent working on kubernetes :smile:
+I'm Godwin, an engineer @Confluent :smile:
